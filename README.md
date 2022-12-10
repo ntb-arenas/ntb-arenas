@@ -1,6 +1,6 @@
 <h2 align="center">Alô! I'm Niño Arenas</h2>
 <h3 align="center">Frontend developer</h3>
-<p align='center'>🏠 Lisbon, Portugal</p>
+<p align='center'>🏠 Lisbon 🇵🇹</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
